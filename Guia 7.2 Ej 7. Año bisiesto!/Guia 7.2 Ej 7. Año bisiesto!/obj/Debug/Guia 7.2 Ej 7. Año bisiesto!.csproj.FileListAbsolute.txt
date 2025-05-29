@@ -1,0 +1,7 @@
+C:\Users\Herna\source\repos\Guia 7.2 Ej 7. Año bisiesto!\Guia 7.2 Ej 7. Año bisiesto!\bin\Debug\Guia_7._2_Ej_7.Año_bisiesto_.exe.config
+C:\Users\Herna\source\repos\Guia 7.2 Ej 7. Año bisiesto!\Guia 7.2 Ej 7. Año bisiesto!\bin\Debug\Guia_7._2_Ej_7.Año_bisiesto_.exe
+C:\Users\Herna\source\repos\Guia 7.2 Ej 7. Año bisiesto!\Guia 7.2 Ej 7. Año bisiesto!\bin\Debug\Guia_7._2_Ej_7.Año_bisiesto_.pdb
+C:\Users\Herna\source\repos\Guia 7.2 Ej 7. Año bisiesto!\Guia 7.2 Ej 7. Año bisiesto!\obj\Debug\Guia 7.2 Ej 7. Año bisiesto!.csproj.AssemblyReference.cache
+C:\Users\Herna\source\repos\Guia 7.2 Ej 7. Año bisiesto!\Guia 7.2 Ej 7. Año bisiesto!\obj\Debug\Guia 7.2 Ej 7. Año bisiesto!.csproj.CoreCompileInputs.cache
+C:\Users\Herna\source\repos\Guia 7.2 Ej 7. Año bisiesto!\Guia 7.2 Ej 7. Año bisiesto!\obj\Debug\Guia_7._2_Ej_7.Año_bisiesto_.exe
+C:\Users\Herna\source\repos\Guia 7.2 Ej 7. Año bisiesto!\Guia 7.2 Ej 7. Año bisiesto!\obj\Debug\Guia_7._2_Ej_7.Año_bisiesto_.pdb

@@ -1,0 +1,7 @@
+C:\Users\Herna\source\repos\Guia 7.2 Ej 5. Orden que ocurrió el menor\Guia 7.2 Ej 5. Orden que ocurrió el menor\obj\Debug\Guia 7.2 Ej 5. Orden que ocurrió el menor.csproj.AssemblyReference.cache
+C:\Users\Herna\source\repos\Guia 7.2 Ej 5. Orden que ocurrió el menor\Guia 7.2 Ej 5. Orden que ocurrió el menor\obj\Debug\Guia 7.2 Ej 5. Orden que ocurrió el menor.csproj.CoreCompileInputs.cache
+C:\Users\Herna\source\repos\Guia 7.2 Ej 5. Orden que ocurrió el menor\Guia 7.2 Ej 5. Orden que ocurrió el menor\bin\Debug\Guia_7._2_Ej_5.Orden_que_ocurrió_el_menor.exe.config
+C:\Users\Herna\source\repos\Guia 7.2 Ej 5. Orden que ocurrió el menor\Guia 7.2 Ej 5. Orden que ocurrió el menor\bin\Debug\Guia_7._2_Ej_5.Orden_que_ocurrió_el_menor.exe
+C:\Users\Herna\source\repos\Guia 7.2 Ej 5. Orden que ocurrió el menor\Guia 7.2 Ej 5. Orden que ocurrió el menor\bin\Debug\Guia_7._2_Ej_5.Orden_que_ocurrió_el_menor.pdb
+C:\Users\Herna\source\repos\Guia 7.2 Ej 5. Orden que ocurrió el menor\Guia 7.2 Ej 5. Orden que ocurrió el menor\obj\Debug\Guia_7._2_Ej_5.Orden_que_ocurrió_el_menor.exe
+C:\Users\Herna\source\repos\Guia 7.2 Ej 5. Orden que ocurrió el menor\Guia 7.2 Ej 5. Orden que ocurrió el menor\obj\Debug\Guia_7._2_Ej_5.Orden_que_ocurrió_el_menor.pdb

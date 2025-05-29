@@ -1,0 +1,7 @@
+C:\Users\Herna\source\repos\Guia 7.2 Lista ordenada\Guia 7.2 Lista ordenada\bin\Debug\Guia 7.2 Lista ordenada.exe.config
+C:\Users\Herna\source\repos\Guia 7.2 Lista ordenada\Guia 7.2 Lista ordenada\bin\Debug\Guia 7.2 Lista ordenada.exe
+C:\Users\Herna\source\repos\Guia 7.2 Lista ordenada\Guia 7.2 Lista ordenada\bin\Debug\Guia 7.2 Lista ordenada.pdb
+C:\Users\Herna\source\repos\Guia 7.2 Lista ordenada\Guia 7.2 Lista ordenada\obj\Debug\Guia 7.2 Lista ordenada.csproj.AssemblyReference.cache
+C:\Users\Herna\source\repos\Guia 7.2 Lista ordenada\Guia 7.2 Lista ordenada\obj\Debug\Guia 7.2 Lista ordenada.csproj.CoreCompileInputs.cache
+C:\Users\Herna\source\repos\Guia 7.2 Lista ordenada\Guia 7.2 Lista ordenada\obj\Debug\Guia 7.2 Lista ordenada.exe
+C:\Users\Herna\source\repos\Guia 7.2 Lista ordenada\Guia 7.2 Lista ordenada\obj\Debug\Guia 7.2 Lista ordenada.pdb

@@ -1,0 +1,8 @@
+C:\Users\Herna\source\repos\Guia 7.2 Positivo,negativo o cero\Guia 7.2 Positivo,negativo o cero\bin\Debug\Guia 7.2 Positivo,negativo o cero.exe.config
+C:\Users\Herna\source\repos\Guia 7.2 Positivo,negativo o cero\Guia 7.2 Positivo,negativo o cero\bin\Debug\Guia 7.2 Positivo,negativo o cero.exe
+C:\Users\Herna\source\repos\Guia 7.2 Positivo,negativo o cero\Guia 7.2 Positivo,negativo o cero\bin\Debug\Guia 7.2 Positivo,negativo o cero.pdb
+C:\Users\Herna\source\repos\Guia 7.2 Positivo,negativo o cero\Guia 7.2 Positivo,negativo o cero\obj\Debug\Guia 7.2 Positivo,negativo o cero.csproj.AssemblyReference.cache
+C:\Users\Herna\source\repos\Guia 7.2 Positivo,negativo o cero\Guia 7.2 Positivo,negativo o cero\obj\Debug\Guia 7.2 Positivo,negativo o cero.csproj.CoreCompileInputs.cache
+C:\Users\Herna\source\repos\Guia 7.2 Positivo,negativo o cero\Guia 7.2 Positivo,negativo o cero\obj\Debug\Guia 7.2 Positivo,negativo o cero.exe
+C:\Users\Herna\source\repos\Guia 7.2 Positivo,negativo o cero\Guia 7.2 Positivo,negativo o cero\obj\Debug\Guia 7.2 Positivo,negativo o cero.pdb
+C:\Users\Herna\source\repos\Guia 7.2 Positivo,negativo o cero\Guia 7.2 Positivo,negativo o cero\obj\Debug\Guia 7.2 Positivo,negativo o cero.exe.config

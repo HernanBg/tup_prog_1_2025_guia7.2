@@ -1,0 +1,8 @@
+C:\Users\Herna\source\repos\Guia 7.2 Condicion del alumno\Guia 7.2 Condicion del alumno\bin\Debug\Guia 7.2 Condicion del alumno.exe.config
+C:\Users\Herna\source\repos\Guia 7.2 Condicion del alumno\Guia 7.2 Condicion del alumno\bin\Debug\Guia 7.2 Condicion del alumno.exe
+C:\Users\Herna\source\repos\Guia 7.2 Condicion del alumno\Guia 7.2 Condicion del alumno\bin\Debug\Guia 7.2 Condicion del alumno.pdb
+C:\Users\Herna\source\repos\Guia 7.2 Condicion del alumno\Guia 7.2 Condicion del alumno\obj\Debug\Guia 7.2 Condicion del alumno.csproj.AssemblyReference.cache
+C:\Users\Herna\source\repos\Guia 7.2 Condicion del alumno\Guia 7.2 Condicion del alumno\obj\Debug\Guia 7.2 Condicion del alumno.csproj.CoreCompileInputs.cache
+C:\Users\Herna\source\repos\Guia 7.2 Condicion del alumno\Guia 7.2 Condicion del alumno\obj\Debug\Guia 7.2 Condicion del alumno.exe
+C:\Users\Herna\source\repos\Guia 7.2 Condicion del alumno\Guia 7.2 Condicion del alumno\obj\Debug\Guia 7.2 Condicion del alumno.pdb
+C:\Users\Herna\source\repos\Guia 7.2 Condicion del alumno\Guia 7.2 Condicion del alumno\obj\Debug\Guia 7.2 Condicion del alumno.exe.config
